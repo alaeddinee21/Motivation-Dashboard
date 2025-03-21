@@ -38,4 +38,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is licensed under the **MIT License**.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/alaeddinee21)
+Made with ❤️ by [Alaeddine](https://github.com/alaeddinee21)
