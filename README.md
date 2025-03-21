@@ -9,8 +9,6 @@ A sleek and minimalist **Productivity Dashboard** designed to enhance focus and 
 - 📖 **Word of the Day** – Expand your vocabulary effortlessly.
 - ✅ **To-Do List** – Track and manage your daily tasks.
 
-## 📸 Preview
-![Dashboard Screenshot](link-to-image)
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS
